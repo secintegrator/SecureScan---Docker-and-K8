@@ -5,10 +5,10 @@ Step-by-Step Guide to Add Security Scanning to Your GitHub Repo
 *Add the Security Scan Script (scan.sh)*
 
 **Step 1 : Create a file called scan.sh in your project root**
-Open your terminal or code editor\
+Open your terminal or code editor
 Create a file named scan.sh
 
-Run this command in your terminal (in the project root):
+Run below command in your terminal (in the project root):
 chmod +x scan.sh
 
 Step 2: Add the GitHub Actions Workflow
